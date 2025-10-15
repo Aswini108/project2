@@ -2,6 +2,7 @@ public class SumOfTwoNumbers {
     public static void main(String[] args) {
         int num1 = 10; // Declare and initialize the first number
         int num2 = 20; // Declare and initialize the second number
+        //this is my github 
 
         int sum = num1 + num2; // Add the two numbers
 
